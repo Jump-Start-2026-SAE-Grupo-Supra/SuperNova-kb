@@ -66,6 +66,12 @@ Siga o fluxo descrito em [AI_USAGE.md](AI_USAGE.md).
 
 ## Deploy
 
-Push na `main` dispara o deploy automático via GitHub Actions para GitHub Pages.
+Após commitar suas alterações na `main`, rode:
+
+```bash
+mkdocs gh-deploy
+```
+
+Isso builda o site e faz push para a branch `gh-pages`, que o GitHub Pages serve automaticamente.
 
 **Site:** https://jump-start-2026-sae-grupo-supra.github.io/SuperNova-kb/
