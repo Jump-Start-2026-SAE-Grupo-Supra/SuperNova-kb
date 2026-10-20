@@ -8,6 +8,8 @@ Base de conhecimento da **Equipe Supra** para o **Sebrae Supernova 2026 — 3a T
 docs/
 ├── index.md                  # Página inicial
 ├── regulamento.md            # Regras e entregas
+├── documentos.md             # Fontes e PDFs (visualização inline)
+├── links.md                  # Links úteis
 ├── analise/                  # Análise de mercado
 │   ├── ecossistema.md
 │   ├── segmentos.md
@@ -16,7 +18,10 @@ docs/
 │   ├── ganhadores.md
 │   ├── avaliacao.md
 │   └── ideias.md
-└── documentos.md             # Fontes e PDFs
+└── assets/
+    └── pdfs/                 # Documentos originais
+        ├── regulamento.pdf
+        └── startups-report-2022-2023.pdf
 ```
 
 ## Como rodar localmente
@@ -64,14 +69,12 @@ Siga o fluxo descrito em [AI_USAGE.md](AI_USAGE.md).
 | `[ai-data]` | Dados extraídos/tabulados por IA a partir de fonte |
 | *(sem prefixo)* | Conteúdo escrito 100% por humano |
 
-## Deploy
+## Visualizando o site
 
-Após commitar suas alterações na `main`, rode:
+O repo é privado, então o site roda localmente:
 
 ```bash
-mkdocs gh-deploy
+mkdocs serve
 ```
 
-Isso builda o site e faz push para a branch `gh-pages`, que o GitHub Pages serve automaticamente.
-
-**Site:** https://jump-start-2026-sae-grupo-supra.github.io/SuperNova-kb/
+Acessa em `http://localhost:8000`. Atualiza automaticamente ao editar os arquivos.

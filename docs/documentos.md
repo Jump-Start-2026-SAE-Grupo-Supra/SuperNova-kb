@@ -2,16 +2,18 @@
 
 Documentos e referências usados na pesquisa da equipe.
 
-## PDFs
+## Regulamento Sebrae Supernova 2026
 
-| Documento | Descrição |
-|:----------|:----------|
-| Regulamento Sebrae Supernova 2026 | Regras, critérios, prazos e entregas da competição |
-| Startups Report Brasil 2022–2023 (Sebrae) | Dados do ecossistema brasileiro: segmentos, modelos de negócio, investimentos, distribuição regional |
+Regras, critérios, prazos e entregas da competição.
 
-## Links úteis
+[Baixar PDF](assets/pdfs/regulamento.pdf){ .md-button }
 
-| Recurso | URL |
-|:--------|:----|
-| Plataforma Supernova | [sebrae.com.br/supernova](https://sebrae.com.br/sites/PortalSebrae/supernova) |
-| Resultado 1a temporada 2026 | Divulgado na plataforma oficial |
+<iframe src="assets/pdfs/regulamento.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
+
+## Startups Report Brasil 2022–2023 (Sebrae)
+
+Dados do ecossistema brasileiro: segmentos, modelos de negócio, investimentos, distribuição regional.
+
+[Baixar PDF](assets/pdfs/startups-report-2022-2023.pdf){ .md-button }
+
+<iframe src="assets/pdfs/startups-report-2022-2023.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
