@@ -4,7 +4,7 @@ Base de conhecimento da **Equipe Supra** para o **Sebrae Supernova 2026 — 3a T
 
 ## Quem somos
 
-4 estudantes de **Engenharia de Software** do Distrito Federal. Experiência prévia: hackathon Jump Start 2026 (Toyota) com o projeto BLOOM.
+3 estudantes de **Engenharia de Software** (Lucas, Luís, Fábio) e 1 de **Engenharia Mecatrônica** (Pedro), do Distrito Federal. Experiência prévia: hackathon Jump Start 2026 (Toyota) com o projeto BLOOM.
 
 ## O que é o Supernova
 
