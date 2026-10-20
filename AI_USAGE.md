@@ -1,4 +1,4 @@
-# Uso de IA na Supra KB
+# Uso de IA na SuperNova KB
 
 Guia para a equipe padronizar como usamos IA ao criar e editar conteúdo nesta base de conhecimento.
 
@@ -10,7 +10,33 @@ Guia para a equipe padronizar como usamos IA ao criar e editar conteúdo nesta b
 
 Qualquer ferramenta de IA pode ser usada. Basta declarar qual foi utilizada na mensagem de commit.
 
-## Fluxo para criar uma página na KB
+## Skill `/kb` — forma recomendada
+
+Este repo tem uma skill do Claude Code que automatiza todo o fluxo abaixo. Para usar:
+
+```bash
+/kb
+```
+
+Ou com uma descrição rápida:
+
+```bash
+/kb dados do censo sobre startups no DF
+```
+
+A skill faz as perguntas necessárias, gera o rascunho no estilo da KB, apresenta para validação e salva o arquivo. Use `>>` antes de qualquer trecho para indicar que o Claude deve expandir aquele ponto.
+
+> Exemplo: `Relatório do Sebrae. >>mostra que saúde tem pouco VC mas muita presença no ecossistema`
+
+O Claude vai expandir "mostra que saúde tem pouco VC..." com dados e análise, mantendo o estilo conciso.
+
+Veja o [README](README.md) para mais detalhes sobre a skill.
+
+---
+
+## Fluxo manual (sem a skill)
+
+Se preferir usar outra ferramenta de IA ou criar a página manualmente, siga este fluxo:
 
 ### 1. Defina o tipo e o objetivo da página
 
