@@ -21,6 +21,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - search.highlight
@@ -48,6 +49,11 @@ nav:
   - Início: index.md
   - Regulamento:
     - Regras e entregas: regulamento.md
+  - Trilha Formativa:
+    - Visão geral: trilha/index.md
+    - "Módulo 1 — Ideação e Validação": trilha/modulo-1.md
+    - "Módulo 2 — Business Model Canvas": trilha/modulo-2.md
+    - Habilidades e competências: trilha/competencias.md
   - Análise de Mercado:
     - Ecossistema brasileiro: analise/ecossistema.md
     - Segmentos e modelos: analise/segmentos.md

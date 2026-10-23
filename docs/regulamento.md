@@ -15,14 +15,16 @@ Resumo do [regulamento completo](documentos.md) do Sebrae Supernova 2026.
 
 ### 1. Trilha Formativa
 
-Pelo menos 1 membro consome ≥50% dos conteúdos (6 módulos):
+Pelo menos 1 membro consome ≥50% dos conteúdos (6 módulos). Temas previstos (Art. 17, §1º):
 
-1. Universo de startups
-2. Ideação e validação
-3. Modelagem de negócio (BMC)
-4. Construção e teste de MVP
-5. Marketing e vendas
-6. Pitch e ecossistema de inovação
+- Universo de startups
+- Ideação e validação
+- Modelagem de negócio (BMC)
+- Construção e teste de MVP
+- Marketing e vendas
+- Pitch e ecossistema de inovação
+
+Resumo dos materiais já disponíveis: [Trilha Formativa](trilha/index.md).
 
 ### 2. Business Model Canvas
 

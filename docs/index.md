@@ -25,6 +25,7 @@ Inscrições da 3a temporada: **até 29 de outubro de 2026**.
 ## Navegação rápida
 
 - [Regras completas](regulamento.md)
+- [Materiais da Trilha Formativa](trilha/index.md)
 - [Ecossistema de startups brasileiro](analise/ecossistema.md)
 - [Quem já ganhou e por quê](estrategia/ganhadores.md)
 - [Como somos avaliados](estrategia/avaliacao.md)

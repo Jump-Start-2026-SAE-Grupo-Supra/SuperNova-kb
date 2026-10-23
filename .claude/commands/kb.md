@@ -26,6 +26,7 @@ Opções (baseadas na nav do mkdocs.yml):
 - "analise" — Análise de Mercado
 - "estrategia" — Estratégia
 - "regulamento" — Regulamento
+- "trilha" — Trilha Formativa (materiais didáticos do Sebrae)
 - "raiz" — Na raiz do docs/
 
 ---

@@ -14,6 +14,11 @@ docs/
 │   ├── ecossistema.md
 │   ├── segmentos.md
 │   └── investimentos.md
+├── trilha/                   # Materiais didáticos da Trilha Formativa (Sebrae)
+│   ├── index.md
+│   ├── modulo-1.md
+│   ├── modulo-2.md
+│   └── competencias.md
 ├── estrategia/               # Estratégia da equipe
 │   ├── ganhadores.md
 │   ├── avaliacao.md
@@ -21,7 +26,8 @@ docs/
 └── assets/
     └── pdfs/                 # Documentos originais
         ├── regulamento.pdf
-        └── startups-report-2022-2023.pdf
+        ├── startups-report-2022-2023.pdf
+        └── trilha/           # Slides das videoaulas
 ```
 
 ## Como rodar localmente
